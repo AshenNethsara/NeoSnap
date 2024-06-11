@@ -1,4 +1,4 @@
-# WhatsApp Status Downloader
+# ![icon-128](https://github.com/AshenNethsara/NeoSnap/assets/86112046/600c69ac-0492-4e1d-896d-e504e3c2d030) WhatsApp Status Downloader
 
 WhatsApp Status Downloader is a Chrome extension that allows users to download WhatsApp status images and videos from WhatsApp Web.
 
