@@ -32,4 +32,4 @@ Contributions are welcome! Please feel free to open issues or pull requests for 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License, version 2](LICENSE).
